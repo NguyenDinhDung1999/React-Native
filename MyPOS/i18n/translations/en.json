@@ -1,0 +1,18 @@
+{
+  "home_title": "Product List",
+  "cart_title": "Shopping Cart",
+  "add_product": "Add New Product",
+  "view_cart": "View Cart",
+  "checkout": "Checkout",
+  "total": "Total",
+  "empty_cart": "Your cart is empty!",
+  "remove": "Remove",
+  "quantity": "Quantity",
+  "product_name": "Product Name",
+  "product_code": "Product Code",
+  "product_price": "Price",
+  "home": "Home",
+  "cart": "Cart",
+  "add_product_menu": "Add Product",
+  "settings": "Settings"
+}
