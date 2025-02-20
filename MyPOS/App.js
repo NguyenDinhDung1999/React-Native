@@ -8,6 +8,7 @@ import HomeScreen from './screens/HomeScreen';
 import CartScreen from './screens/CartScreen';
 import AddProductScreen from './screens/AddProductScreen';
 import SettingScreen from './screens/SettingScreen';
+import ThermalPrinterScreen from './screens/ThermalPrinterScreen';
 
 const Drawer = createDrawerNavigator();
 
@@ -50,6 +51,11 @@ function App() {
                   title: t('settings'),
                 }}
             />
+             <Drawer.Screen
+                 name="ThermalPrinter"
+                 component={ThermalPrinterScreen}
+                 options={{ title: 'Thermal Printer' }}
+             />
           </Drawer.Navigator>
         </NavigationContainer>
       </Provider>

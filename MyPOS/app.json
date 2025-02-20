@@ -19,13 +19,21 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.koson.prototypePOS",
+      "versionCode": 1,
+      "compileSdkVersion": 33
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-localization"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "53372b46-d849-47ca-960e-1374e85e2358"
+      }
+    }
   }
 }
