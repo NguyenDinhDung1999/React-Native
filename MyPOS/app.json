@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.koson.prototypePOS",
+      "package": "com.koson.KosonPOS",
       "versionCode": 1,
       "compileSdkVersion": 33
     },
@@ -32,8 +32,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "53372b46-d849-47ca-960e-1374e85e2358"
+        "projectId": "6b3b2263-df28-4f70-b04e-243081bd8892"
       }
-    }
+    },
+    "owner": "itsmehoaq"
   }
 }

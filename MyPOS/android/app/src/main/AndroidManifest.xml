@@ -25,6 +25,7 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="com.koson.prototypePOS"/>
+        <data android:scheme="com.koson.KosonPOS"/>
       </intent-filter>
     </activity>
   </application>

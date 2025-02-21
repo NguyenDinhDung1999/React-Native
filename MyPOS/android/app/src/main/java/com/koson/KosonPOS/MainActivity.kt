@@ -1,4 +1,4 @@
-package com.koson.prototypePOS
+package com.koson.KosonPOS
 
 import android.os.Build
 import android.os.Bundle
